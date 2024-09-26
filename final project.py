@@ -104,4 +104,3 @@ def game_running():
 
 print("Hello! Welcome to Rock, Paper, Scissors!")
 game_running()
-print("hello")
