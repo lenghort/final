@@ -11,7 +11,7 @@ def computer_choice():
 
 def question_problem():
     questions = {
-    "A mammal that has an ancute od smell and a barking.": "dog",
+    "A mammal that has an ancute sense of smell and a barking.": "dog",
     "It is widely kept as a pet or for catching mice.": "cat",
     "a very large cat. When angry it's say roar.": "tiger",
     "a colorful bird feeding on fruits and seeds.\n"
